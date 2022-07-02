@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuthienFowler 
 - 👀 I’m interested in coding, singing, drawing, animating, and never gonna give you up, never gonna let you down, never gonna run around and desert you.
-- 🌱 I’m currently learning javascript and c#.
+- 🌱 I’m currently learning c# and Unity
 - 📫 How to reach me: @luth_creates on instagram
 
 <!---
